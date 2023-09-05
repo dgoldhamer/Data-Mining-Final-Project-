@@ -1,1 +1,1 @@
-# Data-Mining-Final-Project-
+#This is an example of a data mining class project using SAS Enterprise Miner.  Unfortunately, I cannot find the SAS Enterprise Miner code. Hopefully the write up gives you an idea of my process. The original data is in the zip folder and the transformed data is the unzipped Excel file.
